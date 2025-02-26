@@ -1,6 +1,6 @@
 # 🍷 Machine Learning Wine Classification: A Comprehensive Analysis using Python, Pandas, NumPy and Scikit-learn
 
-[🇺🇸 English](#english) | [🇪🇸 Español](#español)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](#english) [![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-red.svg)](#español)
 
 <a name="english"></a>
 ## 🇺🇸 English
